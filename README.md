@@ -1,4 +1,4 @@
-![AI Student](https://media.licdn.com/dms/image/D4E16AQGViNkF9lP-OA/profile-displaybackgroundimage-shrink_350_1400/0/1676475745638?e=1681948800&v=beta&t=-y21L-1w51vNbYtM-G_0vjhs7Qh4JUZbRn_XEfMbzeY)
+![AI Student](https://github.com/WalidKW/WalidKW/blob/main/WalidKW-Banner.gif)
 
 ### Hi there 👋, Walid Alsafadi
 I'm Walid from Palestine, and I'm a sophomore studying Data Science and Artificial Intelligence. I have a strong interest in coding and learning new programming languages.
