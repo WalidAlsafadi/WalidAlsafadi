@@ -24,4 +24,3 @@ I'm Walid from Palestine, and I'm a sophomore studying Data Science and Artifici
 ### 📊 Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WalidKW&show_icons=true&theme=transparent) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalidKW&layout=compact&theme=transparent)](https://github.com/WalidKW/WalidKW)
