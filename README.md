@@ -1,26 +1,56 @@
-![AI Student](https://github.com/WalidKW/WalidKW/blob/main/WalidKW-Banner.gif)
+![Banner](https://github.com/WalidKW/WalidKW/blob/main/WalidKW-Banner.gif)  
+# **Walid Alsafadi**  
+### **AI & Data Science Student**  
 
-### Hi there 👋, Walid Alsafadi
-I'm Walid from Palestine, and I'm a sophomore studying Data Science and Artificial Intelligence. I have a strong interest in coding and learning new programming languages.
+Hello! I'm **Walid Alsafadi**, a student of **Data Science and Artificial Intelligence**, specializing in **machine learning**, **deep learning**, **natural language processing (NLP)**, and **business intelligence**. My journey is driven by a passion for developing innovative AI solutions and exploring cutting-edge fields such as **computer vision**, **large language models (LLMs)**, and **cloud computing**.  
 
 ---
 
-### 🧰 Skills and Experience:
+### **🛠️ Skills & Expertise**  
+- **Programming Languages**:
+<img align="center" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> ,
+<img align="center" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> ,
+<img align="center" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> ,
+<img align="center" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> , <img align="center" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"" />
-<img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<br />
+- **Frameworks & Libraries**:
+<img align="center" alt="name" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" /> ,
+<img align="center" alt="name" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" /> ,
+<img align="center" alt="name" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" /> ,
+<img align="center" alt="name" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" /> ,
+<img align="center" alt="name" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" /> ,
+<img align="center" alt="name" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" /> ,
+<img align="center" alt="name" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" /> ,
+<img align="center" alt="name" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" /> ,
+<img align="center" alt="name" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" /> , <img align="center" alt="name" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+                      
+- **Key Areas**:  
+  - Machine learning: Regression, classification, clustering  
+  - Deep learning: Neural networks, time series forecasting  
+  - NLP: Text classification, sentiment analysis  
+  - Business intelligence: Dashboarding and analytics tools  
+- **Cloud Platforms**: <img align="center" alt="name" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /> , <img align="center" alt="name" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+          
 
-#
+---
 
-### 📊 Stats:
+### **🔬 Interests**  
+I am particularly focused on:  
+- Developing AI-driven applications for real-world challenges  
+- Leveraging **API integrations** to enhance NLP systems  
+- Preparing systems for seamless integration with **large language models**  
+- Exploring **computer vision** for innovative problem-solving  
+- Advancing scalability with **cloud computing**  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WalidKW&show_icons=true&theme=transparent) <br>
+---
+
+### **📈 Stats & Activity**  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WalidAlsafadi&show_icons=true&theme=transparent)  
+
+---
+
+### **🌐 Connect with Me**  
+- **LinkedIn**: [Walid Alsafadi](https://www.linkedin.com/in/WalidAlsafadi/)  
+- **Website**: [WalidAlsafadi.github.io](https://WalidAlsafadi.github.io)  
+- **Email**: Walid.K.Alsafadi@gmail.com  
