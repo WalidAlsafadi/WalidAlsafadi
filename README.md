@@ -1,4 +1,4 @@
-![Banner](https://github.com/WalidAlsafadi/WalidAlsafadi/blob/main/Walid's%20GIF%20Banner.gif)
+![Banner](https://github.com/WalidAlsafadi/WalidAlsafadi/blob/main/Walid's_LinkedIn_Banner.gif)
 
 # Walid Alsafadi
 
